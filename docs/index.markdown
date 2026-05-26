@@ -4,19 +4,19 @@
 
 layout: default
 ---
+
+![pfp](https://github.com/ElyasMez/kmeziane.github.io/blob/main/assets/img/profile_picturepng.png)
 Profile Picture, contact information, title:
 
+
 ### About me
-------------
 
 text here.
 
 ### My research
-------------
 
 text here.
 
 ### Recent Publications
-------------
 
 text here.
