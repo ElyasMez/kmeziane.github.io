@@ -22,7 +22,7 @@ layout: default
 ## About Me and My Research
 
 Karim Meziane received his Doctorate in Astrophysics and Space Physics at the University Paul Sabatier. In 1995, he was a
-Postdoctoral Fellow at the Centre d'Etude Spatiale des Rayonnements [CESR] (now Instutut de Recherche en Astrophysique & Planétologie, IRAP), Toulouse France. Between 1996 and 2000
+Postdoctoral Fellow at the Centre d'Etude Spatiale des Rayonnements [CESR] (now Institut de Recherche en Astrophysique & Planétologie, IRAP), Toulouse, France. Between 1996 and 2000
 he was a visiting scholar at the University of Washington, Seattle and at the Space Sciences Laboratory, Berkeley where he
 worked closely with Prof. G. K. Parks and Prof. R. P. Lin, respectively. Since September 2000, he is a Research Scientist
 and Lecturer at the University of New-Brunswick. K. Meziane received many grants from Institut National des Sciences de
@@ -30,7 +30,7 @@ l'Univers (INSU) for collaborative projects with Cluster-CIS team. He is Co-Inve
 instruments. He also was co-Investigator of an ISSI "International Team" between 2004 and 2006 ("A Collaborative Effort
 to Study the Production and Transport of 1-30 keV Upstream Ions").
 Karim Meziane gleaned substantial experience working on measurements from spaceborne instrumentation, such as the
-ISEE analysers, Wind-3DP experiment and now, the Cluster-CIS experiment. The main focus on his research is on the
+ISEE analysers, Wind-3DP experiment and now, the Cluster-CIS experiment. The main focus of his research is on the
 mechanisms responsible for the acceleration of ions to energies from few keV to ~ 1MeV at collisionless plasma shocks.
 His recent work shed light on the character of the boundaries within the Earth's foreshock, the sources of plasma waves seen
 in association with foreshock beams, and the nature of unexpected angular particle distributions seen at very high energies.
